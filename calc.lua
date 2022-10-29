@@ -11,7 +11,7 @@ print("z is 234.43878")
 
 print("We are looking for approximately 7000")
 
-print("Starting the calculations in Lua ..")
+print("Starting the calculations in Lua..")
 print("x = x * 4")
 x = x * 4
 print("x equals " .. x)
