@@ -1,6 +1,4 @@
-﻿// To run, write "dotnet run" in the terminal
-using System.IO.Compression;
-using System;
+// To run, write "dotnet run" in the terminal
 
 namespace calc
 {
